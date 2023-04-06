@@ -1,0 +1,159 @@
+@media (min-width: 1200px)
+{
+    .container
+    {
+        max-width: 1000px;
+    }
+
+    .col-12
+    {
+        max-width: 45%;
+    }
+}
+
+body
+{
+    background-size:cover;
+    background-image: url("images/Memory_New_York_Port_Future_Background.png");
+}
+
+#gambar img
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#top
+{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo
+{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+#logo img
+{
+    width: 80px;
+}
+
+#kotakuang
+{
+    background-color:aliceblue;
+    padding: 10px 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#uang
+{
+    margin-top: 85px;
+    font-size: 30px;
+}
+
+#kotakuang ul li
+{
+    margin-top: 10px;
+    list-style: none;
+}
+
+#objek
+{
+    text-align: center;
+}
+
+#objek img
+{
+    border: 1px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 380px;
+    height: 350px;
+}
+
+#objek img:active
+{
+    content: url("images/seseren-azur-lane.gif");
+}
+
+#info1:hover::after {
+    content: "Menurunkan Cooldown Klik sebanyak 0,8 detik.";
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+#info2:hover::after {
+    content: "Cooldown Autoclicker -2 detik.";
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+#info3:hover::after {
+    content: "Cooldown Autoclicker -2,5 detik.";
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+#info4:hover::after {
+    content: "Beli Auto Clicker untuk klik otomatis (Cooldown 5 detik)";
+    position: absolute;
+    bottom: 298px;
+    left: 57%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  
+#info5:hover::after 
+{
+    content: "Buka cabang toko baru untuk meningkatkan keuntungan Anda";
+    position: absolute;
+    bottom: 298px;
+    left: 70%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  
