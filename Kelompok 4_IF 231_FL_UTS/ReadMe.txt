@@ -13,3 +13,6 @@ Game ini adalah game Idle Clicker pada umumnya
     - Royal Gourmet = Untuk mengurangi cooldown interval Auto Clicker (5000 -> 3000) [5 detik menjadi 3 detik]
     - Kamagi Mochi = Untuk mengurangi cooldown interval Auto Clicker, namun upgrade ini bisa di stack dengan upgrade Royal Gourmet (5000 -> 2500) [5 detik menjadi 2,5 detik]
 4. Upgrades dan Auto Clicker hanya bisa dibeli sekali, sedangkan Untuk Multiplier Cabang Toko bisa dibeli sebanyak 3x.
+
+Link Github :
+https://github.com/Cuanzzz/Idle-Clicker
